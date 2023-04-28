@@ -1,0 +1,18 @@
+header{
+    background-color: green;
+    padding: 10px;
+    color: white;
+}
+
+body{
+    margin:0;
+    height: 100vh;
+}
+
+footer{
+    background-color: red;
+    padding: 10px;
+    position: absolute;
+    bottom: 0;
+    width: calc(100% - 20px);
+}
